@@ -1,7 +1,3 @@
-![hammock icon](https://alanlynn.github.io/hammock/icon.png)
-
-# Hammock Color Theme for Visual Studio Code
-
 [Hammock](https://github.com/AlanLynn/hammock#readme) is a dark color theme that lets your eyes relax.
 
 ![hammock syntax highlighting screenshot](https://alanlynn.github.io/hammock/screenshot-vscode.png)

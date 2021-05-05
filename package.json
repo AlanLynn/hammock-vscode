@@ -1,0 +1,35 @@
+{
+    "name": "hammock-theme",
+    "displayName": "Hammock Theme",
+    "description": "A dark color theme that lets your eyes relax",
+    "version": "1.0.0",
+    "publisher": "AlanLynn",
+    "license": "(MIT AND CC-BY-4.0)",
+    "engines": {
+        "vscode": "^1.13.0"
+    },
+    "icon": "icon.png",
+    "categories": ["Themes"],
+    "keywords": ["color-theme", "dark", "theme"],
+    "galleryBanner": {
+        "color": "#eaebf5",
+        "theme": "dark"
+    },
+    "homepage": "https://github.com/AlanLynn/hammock#readme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/AlanLynn/hammock-vscode"
+    },
+    "bugs": {
+        "url": "https://github.com/AlanLynn/hammock-vscode/issues"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "Hammock",
+                "uiTheme": "vs-dark",
+                "path": "./themes/hammock-color-theme.json"
+            }
+        ]
+    }
+}

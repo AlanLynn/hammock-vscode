@@ -13,7 +13,7 @@
     "keywords": ["color-theme", "dark", "theme"],
     "galleryBanner": {
         "color": "#eaebf5",
-        "theme": "dark"
+        "theme": "light"
     },
     "homepage": "https://github.com/AlanLynn/hammock#readme",
     "repository": {

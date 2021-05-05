@@ -14,7 +14,7 @@ Enjoy syntax highlighting with gentle colors that go well together.
 1. Go to [Hammock on the Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=alanlynn.hammock-theme).
 2. Click "Install". This will open a tab inside Visual Studio Code.
 3. Click "Install" inside the Visual Studio Code tab.
-4. Click "Set Color Theme".
+4. Click "Set Color Theme", then select "Hammock".
 
 
 ## Install using Command Palette

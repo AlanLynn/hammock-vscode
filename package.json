@@ -2,15 +2,21 @@
     "name": "hammock-theme",
     "displayName": "Hammock Theme",
     "description": "A dark color theme that lets your eyes relax",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "publisher": "AlanLynn",
     "license": "(MIT AND CC-BY-4.0)",
     "engines": {
         "vscode": "^1.13.0"
     },
     "icon": "icon.png",
-    "categories": ["Themes"],
-    "keywords": ["color-theme", "dark", "theme"],
+    "categories": [
+        "Themes"
+    ],
+    "keywords": [
+        "color-theme",
+        "dark",
+        "theme"
+    ],
     "galleryBanner": {
         "color": "#eaebf5",
         "theme": "light"
